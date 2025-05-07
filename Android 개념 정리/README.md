@@ -6,6 +6,7 @@
 - [Device-independent Pixel](https://apple-sushi-c42.notion.site/Device-independent-Pixel-15dcef5d64dd80c09bbcc8255786afff)
 - [Device Pixel Ratio](https://apple-sushi-c42.notion.site/Device-Pixel-Ratio-15bcef5d64dd803ba928cb1067bc8f39)
 - [Lifecycle (Activity, Fragment, ViewModel)](https://apple-sushi-c42.notion.site/Lifecycle-16acef5d64dd8049a18bd8b01c872b8a)
+- [R8 & ProGuard](https://apple-sushi-c42.notion.site/R8-ProGuard-1eccef5d64dd804d8375fbe489dedf03)
 - [Room](https://apple-sushi-c42.notion.site/Room-19bcef5d64dd80fa804ad874a3b1a0f2)
 - [Paging](https://apple-sushi-c42.notion.site/Paging-19fcef5d64dd800daccce712623140c1)
 - [SDK 버전 설정](https://apple-sushi-c42.notion.site/SDK-152cef5d64dd8043bca4ce7b290d1142)
