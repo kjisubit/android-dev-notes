@@ -12,5 +12,6 @@
 - [SDK 버전 설정](https://apple-sushi-c42.notion.site/SDK-152cef5d64dd8043bca4ce7b290d1142)
 - [Service](https://apple-sushi-c42.notion.site/Service-1f2cef5d64dd80e895e5df271e18f910)
 - [Test](https://apple-sushi-c42.notion.site/App-Test-1b0cef5d64dd8014a05eefdcbb54bd2d)
+- [WorkManager](https://apple-sushi-c42.notion.site/WorkManager-1f6cef5d64dd809e9faddf7a1f77ed35)
 - [권한](https://apple-sushi-c42.notion.site/14fcef5d64dd80c1b7f0cde886835dcf)
 - [앱 서명](https://apple-sushi-c42.notion.site/150cef5d64dd80959065cd377b37c97e)
