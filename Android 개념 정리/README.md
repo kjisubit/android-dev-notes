@@ -2,7 +2,7 @@
 
 - [APK, AAB](https://apple-sushi-c42.notion.site/APK-AAB-155cef5d64dd805e9460db474050a64b)
 - [Compose](https://apple-sushi-c42.notion.site/Compose-UI-Architecture-19ecef5d64dd80768bead3f20e801af5)
-- [CI/CD Android](https://apple-sushi-c42.notion.site/CI-CD-Android-205cef5d64dd80e1b480d1c48740edf2)
+- [CI/CD (Android)](https://apple-sushi-c42.notion.site/CI-CD-Android-205cef5d64dd80e1b480d1c48740edf2)
 - [Data and File Storage](https://apple-sushi-c42.notion.site/Data-and-File-Storage-18dcef5d64dd808389e8ca196b2d2712)
 - [Device-independent Pixel](https://apple-sushi-c42.notion.site/Device-independent-Pixel-15dcef5d64dd80c09bbcc8255786afff)
 - [Device Pixel Ratio](https://apple-sushi-c42.notion.site/Device-Pixel-Ratio-15bcef5d64dd803ba928cb1067bc8f39)
