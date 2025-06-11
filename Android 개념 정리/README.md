@@ -7,7 +7,7 @@
 - [Device-independent Pixel](https://apple-sushi-c42.notion.site/Device-independent-Pixel-15dcef5d64dd80c09bbcc8255786afff)
 - [Device Pixel Ratio](https://apple-sushi-c42.notion.site/Device-Pixel-Ratio-15bcef5d64dd803ba928cb1067bc8f39)
 - [GitHub Actions Basic](https://apple-sushi-c42.notion.site/GitHub-Actions-with-Android-209cef5d64dd80c9a085ecebee3155c7)
-- [GitHub Actions Android CI/CD](https://apple-sushi-c42.notion.site/GitHub-Actions-with-Android-209cef5d64dd80c9a085ecebee3155c7)
+- [GitHub Actions CI/CD](https://apple-sushi-c42.notion.site/GitHub-Actions-CI-CD-20fcef5d64dd80729046d17221b9a9fd)
 - [Lifecycle (Activity, Fragment, ViewModel)](https://apple-sushi-c42.notion.site/Lifecycle-16acef5d64dd8049a18bd8b01c872b8a)
 - [Paging](https://apple-sushi-c42.notion.site/Paging-19fcef5d64dd800daccce712623140c1)
 - [R8 & ProGuard](https://apple-sushi-c42.notion.site/R8-ProGuard-1eccef5d64dd804d8375fbe489dedf03)
