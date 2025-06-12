@@ -1,6 +1,7 @@
 # Android 개념 정리
 
 - [APK, AAB](https://apple-sushi-c42.notion.site/APK-AAB-155cef5d64dd805e9460db474050a64b)
+- [App Signing](https://apple-sushi-c42.notion.site/150cef5d64dd80959065cd377b37c97e)
 - [Compose](https://apple-sushi-c42.notion.site/Compose-UI-Architecture-19ecef5d64dd80768bead3f20e801af5)
 - [CI/CD (Android)](https://apple-sushi-c42.notion.site/CI-CD-Android-205cef5d64dd80e1b480d1c48740edf2)
 - [Data and File Storage](https://apple-sushi-c42.notion.site/Data-and-File-Storage-18dcef5d64dd808389e8ca196b2d2712)
@@ -10,11 +11,10 @@
 - [GitHub Actions CI/CD](https://apple-sushi-c42.notion.site/GitHub-Actions-CI-CD-20fcef5d64dd80729046d17221b9a9fd)
 - [Lifecycle (Activity, Fragment, ViewModel)](https://apple-sushi-c42.notion.site/Lifecycle-16acef5d64dd8049a18bd8b01c872b8a)
 - [Paging](https://apple-sushi-c42.notion.site/Paging-19fcef5d64dd800daccce712623140c1)
+- [Permission](https://apple-sushi-c42.notion.site/14fcef5d64dd80c1b7f0cde886835dcf)
 - [R8 & ProGuard](https://apple-sushi-c42.notion.site/R8-ProGuard-1eccef5d64dd804d8375fbe489dedf03)
 - [Room](https://apple-sushi-c42.notion.site/Room-19bcef5d64dd80fa804ad874a3b1a0f2)
 - [SDK 버전 설정](https://apple-sushi-c42.notion.site/SDK-152cef5d64dd8043bca4ce7b290d1142)
 - [Service](https://apple-sushi-c42.notion.site/Service-1f2cef5d64dd80e895e5df271e18f910)
 - [Test](https://apple-sushi-c42.notion.site/App-Test-1b0cef5d64dd8014a05eefdcbb54bd2d)
 - [WorkManager](https://apple-sushi-c42.notion.site/WorkManager-1f6cef5d64dd809e9faddf7a1f77ed35)
-- [권한](https://apple-sushi-c42.notion.site/14fcef5d64dd80c1b7f0cde886835dcf)
-- [앱 서명](https://apple-sushi-c42.notion.site/150cef5d64dd80959065cd377b37c97e)
