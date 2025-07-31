@@ -2,6 +2,7 @@
 
 - [APK, AAB](https://apple-sushi-c42.notion.site/APK-AAB-155cef5d64dd805e9460db474050a64b)
 - [App Signing](https://apple-sushi-c42.notion.site/150cef5d64dd80959065cd377b37c97e)
+- [Build Structure](https://apple-sushi-c42.notion.site/Build-Structure-241cef5d64dd80fab792fe0287ec33ba)
 - [Compose](https://apple-sushi-c42.notion.site/Compose-UI-Architecture-19ecef5d64dd80768bead3f20e801af5)
 - [CI/CD](https://apple-sushi-c42.notion.site/CI-CD-Android-205cef5d64dd80e1b480d1c48740edf2)
 - [Data and File Storage](https://apple-sushi-c42.notion.site/Data-and-File-Storage-18dcef5d64dd808389e8ca196b2d2712)
