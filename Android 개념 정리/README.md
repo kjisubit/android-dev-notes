@@ -1,7 +1,7 @@
 # Android 개념 정리
 
 - [APK, AAB](https://apple-sushi-c42.notion.site/APK-AAB-155cef5d64dd805e9460db474050a64b)
-- [App Signing, Key Hash](https://apple-sushi-c42.notion.site/Key-Hash-2bccef5d64dd80648c15cdb75211cf40)
+- [App Signing](https://apple-sushi-c42.notion.site/Key-Hash-2bccef5d64dd80648c15cdb75211cf40)
 - [Play App Signing](https://apple-sushi-c42.notion.site/App-Signing-294cef5d64dd803490e9dfeee2edef5a)
 - [Build Structure](https://apple-sushi-c42.notion.site/Build-Structure-241cef5d64dd80fab792fe0287ec33ba)
 - [Compose](https://apple-sushi-c42.notion.site/Compose-UI-Architecture-19ecef5d64dd80768bead3f20e801af5)
