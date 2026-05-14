@@ -4,7 +4,7 @@
 - [App Signing](https://apple-sushi-c42.notion.site/Key-Hash-2bccef5d64dd80648c15cdb75211cf40)
 - [Play App Signing](https://apple-sushi-c42.notion.site/App-Signing-294cef5d64dd803490e9dfeee2edef5a)
 - [Build Structure](https://apple-sushi-c42.notion.site/Build-Structure-241cef5d64dd80fab792fe0287ec33ba)
-- [Compose](https://apple-sushi-c42.notion.site/Compose-UI-Architecture-19ecef5d64dd80768bead3f20e801af5)
+- [Compose](https://github.com/kjisubit/android-dev-notes/tree/main/Android%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/Compose)
 - [CI/CD](https://apple-sushi-c42.notion.site/CI-CD-Android-205cef5d64dd80e1b480d1c48740edf2)
 - [Data and File Storage](https://apple-sushi-c42.notion.site/Data-and-File-Storage-18dcef5d64dd808389e8ca196b2d2712)
 - [Device-independent Pixel](https://apple-sushi-c42.notion.site/Device-independent-Pixel-15dcef5d64dd80c09bbcc8255786afff)
