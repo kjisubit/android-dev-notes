@@ -15,7 +15,7 @@
 - [Key Hash](https://apple-sushi-c42.notion.site/Key-Hash-2bccef5d64dd80648c15cdb75211cf40)
 - [Lifecycle (Activity, Fragment, ViewModel)](https://apple-sushi-c42.notion.site/Lifecycle-16acef5d64dd8049a18bd8b01c872b8a)
 - [NDK](https://apple-sushi-c42.notion.site/NDK-2bacef5d64dd8084aef1d8392d14e4e2)
-- [Paging](https://apple-sushi-c42.notion.site/Paging-19fcef5d64dd800daccce712623140c1)
+- [Paging](https://github.com/kjisubit/android-dev-notes/tree/main/Android%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/Paging)
 - [Permission](https://apple-sushi-c42.notion.site/14fcef5d64dd80c1b7f0cde886835dcf)
 - [R8 & ProGuard](https://apple-sushi-c42.notion.site/R8-ProGuard-1eccef5d64dd804d8375fbe489dedf03)
 - [Room](https://apple-sushi-c42.notion.site/Room-19bcef5d64dd80fa804ad874a3b1a0f2)
