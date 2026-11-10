@@ -22,7 +22,7 @@
 - [SDK 버전 설정](https://apple-sushi-c42.notion.site/SDK-152cef5d64dd8043bca4ce7b290d1142)
 - [Service](https://apple-sushi-c42.notion.site/Service-1f2cef5d64dd80e895e5df271e18f910)
 - [Symbol](https://apple-sushi-c42.notion.site/Native-Symbol-2e6cef5d64dd80b5b648d7f2f46b9406)
-- [Test](https://apple-sushi-c42.notion.site/App-Test-1b0cef5d64dd8014a05eefdcbb54bd2d)
+- [Test](https://github.com/kjisubit/android-dev-notes/tree/main/Android%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/Test)
 - [Text Rendering](https://apple-sushi-c42.notion.site/Text-Rendering-22fcef5d64dd80dbbc6bd4c01c1d95eb)
 - [Uncaught Exception](https://apple-sushi-c42.notion.site/Uncaught-Exception-3d5cef5d64dd806786c8d5f5919bd604)
 - [WorkManager](https://apple-sushi-c42.notion.site/WorkManager-1f6cef5d64dd809e9faddf7a1f77ed35)
